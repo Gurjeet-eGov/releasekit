@@ -1,0 +1,92 @@
+[
+    {
+        "code": "SW_FEE_ROUND_OFF",
+        "message": "Fee Round Off",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_ONE_TIME_FEE",
+        "message": "One Time Fee",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SW_ROAD_CUTTING_CHARGE",
+        "message": "Road Cutting Charge",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_NEWSW1_VERIFY_AND_FORWARD",
+        "message": "Verify and Forward",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ACKNO_APP_NO_LABEL",
+        "message": "Water Application No.",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ACKNO_SEW_APP_NO_LABEL",
+        "message": "Sewerage Application No.",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ADDN_DETAILS_NO_OF_WATER_CLOSETS_PLACEHOLDER",
+        "message": "Enter No. of water closets",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_APPLICATION",
+        "message": "Application",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_ESTIMATION_NOTICE",
+        "message": "Estimation Notice",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PAYMENT_REBATE_REASON",
+        "message": "Select Reason",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_PAYMENT_REBATE_REASON_SELECT",
+        "message": "Select Reason",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE_ADDITIONAL_AMOUNT_CHARGED",
+        "message": "Additional amount charged from the citizen",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE_ADVANCED_PAID",
+        "message": "Advance paid by citizen earlier",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_REBATE_BY_COMMISSIONER",
+        "message": "Rebate provided by commissioner/EO",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WS_SANCTION_LETTER",
+        "message": "Sanction letter",
+        "module": "rainmaker-ws ",
+        "locale": "en_IN"
+    }
+]

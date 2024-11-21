@@ -1,0 +1,44 @@
+[
+    {
+        "code": "PT-test",
+        "message": "testttss8899",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_DUMM2",
+        "message": "DUMMY",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_test",
+        "message": "TEst",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Pt-test1",
+        "message": "test",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Pt-test2",
+        "message": "te5555",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt-tt",
+        "message": "testttt3322",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt_tt",
+        "message": "test",
+        "module": "rainmaker-test",
+        "locale": "en_IN"
+    }
+]

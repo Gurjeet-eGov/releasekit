@@ -1,0 +1,104 @@
+[
+    {
+        "code": "DSS_PROPERTY_TAX",
+        "message": "Property Tax",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_ADDISABABA_ADMIN_ADD01",
+        "message": "Sabiyan",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_ADDISABABA_ADMIN_ADD02",
+        "message": "Melka Jebdu",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_AMHARA_ADMIN_AMR01",
+        "message": "Adama",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_AMHARA_ADMIN_AMR02",
+        "message": "Piasa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_DIRADAWA_ADMIN_DRD01",
+        "message": "Bahar Dar",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_DIRADAWA_ADMIN_DRD02",
+        "message": "Gonder",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_OROMIA_ADMIN_OR01",
+        "message": "Nefas Silk Subcity",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_OROMIA_ADMIN_OR02",
+        "message": "Lemi Kura Subcity",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_OROMIA_ADMIN_OR03",
+        "message": "Piasa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_ADDISABABA",
+        "message": "Addis Ababa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_ADDIS_ABABA",
+        "message": "Addis Ababa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_AMHARA",
+        "message": "Ethopia",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_CITYB",
+        "message": "City B",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_DIRADAWA",
+        "message": "Dire Dawa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_DIREDAWA",
+        "message": "Dire Dawa",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TENANT_TENANTS_PG_OROMIA",
+        "message": "Oromia",
+        "module": "rainmaker-pg",
+        "locale": "en_IN"
+    }
+]

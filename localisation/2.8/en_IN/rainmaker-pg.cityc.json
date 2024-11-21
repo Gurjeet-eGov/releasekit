@@ -1,0 +1,14 @@
+[
+    {
+        "code": "PG_CITYC_ADMIN_JLC1",
+        "message": "Bahar Dar",
+        "module": "rainmaker-pg.cityc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_CITYC_ADMIN_JLC10",
+        "message": "Gonder",
+        "module": "rainmaker-pg.cityc",
+        "locale": "en_IN"
+    }
+]

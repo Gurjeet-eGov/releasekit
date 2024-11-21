@@ -1,0 +1,146 @@
+[
+    {
+        "code": "CMN_OPTION",
+        "message": "Option",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_COMMON_NEW_SURVEY",
+        "message": "Create New Survey",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_EVENT_INBOX",
+        "message": "Inbox",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_NO_INACTIVE_SURVEYS",
+        "message": "No active surveys",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ES_SURVEY_DONT_START_WITH_NUMBER",
+        "message": "Survey name cannot start with a number",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EXCEEDS_100_CHAR_LIMIT",
+        "message": "Description should be less than 100 charchters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EXCEEDS_140_CHAR_LIMIT",
+        "message": "Description should be less than 140 charchters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EXCEEDS_200_CHAR_LIMIT",
+        "message": "Description should be less than 200 charchters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EXCEEDS_500_CHAR_LIMIT",
+        "message": "Description should be less than 500 charchters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "EXCEEDS_60_CHAR_LIMIT",
+        "message": "Description should be less than 60 characters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "LABEL_SURVEY_EMAIL_MOBILE",
+        "message": "Collect Email ID / Phone Number",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "MAX_LENGTH_60",
+        "message": "Description should be less than 60 characters",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROP_LOCALITY",
+        "message": "Locality/Mohalla",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_CHECK_BOXES",
+        "message": "Check boxes",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_DATE",
+        "message": "Date",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_MULTIPLE_CHOICE",
+        "message": "Multiple choice",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_PARAGRAPH",
+        "message": "Paragraph",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_SHORT_ANSWER",
+        "message": "Short answer",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEYS_TIME",
+        "message": "Time",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_INFO_HEADER",
+        "message": "Note",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_INFO_LABEL",
+        "message": "For Active surveys only end date/time and survey description can be edit.",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_QUESTIONS",
+        "message": "Questions",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "SURVEY_REPORT",
+        "message": "Report",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WHO_RESPONDED",
+        "message": "Who has Responded",
+        "module": "rainmaker-engagment",
+        "locale": "en_IN"
+    }
+]

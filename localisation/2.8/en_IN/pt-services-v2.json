@@ -1,0 +1,62 @@
+[
+    {
+        "code": "PT_NOTIF_PAYMENT_FAIL",
+        "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_PAYMENT_OFFILE",
+        "message": "Dear Citizen,  Your Property Tax payment of Rs. {amount}  has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount} You can pay your Property Tax online here - {insert inactive citizen application web URL}.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIF_PAYMENT_ONLINE",
+        "message": "Dear Citizen, Your payment of Rs.{ insert amount paid} with payment transaction id { insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID} for {FY} was succesful. Property Tax due is Rs.{pt due}.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.oldpropertyid.absent",
+        "message": "Dear Citizen, You have not filled your Existing Property ID in your Property Tax Assessment for property with Property Tax Unique ID {insert Property Tax Assessment ID}. If you do not have an Existing Property ID, please visit your local Municipal office immediately and you will be assigned one for your property. ",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.payment.fail",
+        "message": "Dear Citizen, Your payment of Rs. {insert amount to pay} for Property Tax Unique ID {insert ID} has failed. Your assessment is pending. Please try again. Ignore this message if you have completed your payment.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.payment.offline",
+        "message": "Dear Citizen,  Your Property Tax payment of Rs. {amount}  has been accepted. Mode of Payment: {insert mode of payment} Pending Amount: {Enter pending amount} You can pay your Property Tax online here - {insert inactive citizen application web URL}.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.payment.online",
+        "message": "Dear Citizen, Your payment of Rs.{ insert amount paid} with payment transaction id { insert payment transaction id from PG} has been made successfully. Assessment for Property Tax Unique ID {insert Property Tax Assessment ID} for {FY} was succesful. Property Tax due is Rs.{pt due}.",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.property.en.create",
+        "message": "Dear Citizen, Your property has been created in the system with Property Tax Unique ID {insert ID}. Property Address: {House No.}, {Colony Name}, {Street No.}, {Mohalla}, {City}. {Pincode}\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.property.en.update",
+        "message": "Dear Citizen, Your property with Property Tax Unique ID {insert ID} has been re-assessed with Assessment No {insert no}. If you have any queries regarding this, please contact your Municipality.\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    },
+    {
+        "code": "pt.property.en.update.employee",
+        "message": "Dear Citizen,Property Tax Assessment for property with Property Tax Unique ID {insert Property Tax Assessment ID}. If you do not have an Existing Property ID, please visit your local Municipal office immediately.\n\nEGOVS",
+        "module": "pt-services-v2",
+        "locale": "en_IN"
+    }
+]

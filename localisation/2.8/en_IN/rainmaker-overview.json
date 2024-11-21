@@ -1,0 +1,8 @@
+[
+    {
+        "code": "DSS_PROPERTY_TAX",
+        "message": "Property Tax",
+        "module": "rainmaker-overview",
+        "locale": "en_IN"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "code": "WS_VIEW_BILL_DETAILS_HEADER",
+        "message": "Bill Details",
+        "module": "egov-wns",
+        "locale": "en_IN"
+    }
+]

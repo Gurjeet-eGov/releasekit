@@ -1,0 +1,74 @@
+[
+    {
+        "code": "ACTION_TEST_ABOUT_DASHBOARD",
+        "message": "About",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_FAQS",
+        "message": "FAQs",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_DASHBOARD_OBPS",
+        "message": "Online Building Plan Approval System",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_OVERVIEW",
+        "message": "Overview Page",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_PGR",
+        "message": "Public Grievances & Redressal",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_UBRAN_REALTIME_DASHBOARD",
+        "message": "National Urban Real-Time Dashboard",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_DASHBOARD",
+        "message": "NURT Dashboard",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_DASHBOARD",
+        "message": "NURT Dashboard",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_PAGE",
+        "message": "Landing Page",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_ABOUT_DASHBOARD",
+        "message": "About the Dashboard",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "DSS_FAQS",
+        "message": "FAQs",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    },
+    {
+        "code": "NSS_WS_DASHBOARD",
+        "message": "Water & Sewerage",
+        "module": "rainmaker-dsson",
+        "locale": "en_IN"
+    }
+]

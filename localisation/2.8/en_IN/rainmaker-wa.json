@@ -1,0 +1,8 @@
+[
+    {
+        "code": "WF_EMPLOYEE_NEWWS1_APPROVE_FOR_CONNECTION",
+        "message": "Approve Connection",
+        "module": "rainmaker-wa",
+        "locale": "en_IN"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "code": "ERR_WS_PROP_STATUS_INACTIVE",
+        "message": "Property Status is INACTIVE",
+        "module": "rainmaker_ws",
+        "locale": "en_IN"
+    }
+]

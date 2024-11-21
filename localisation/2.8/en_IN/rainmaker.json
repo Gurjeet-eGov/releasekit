@@ -1,0 +1,650 @@
+[
+    {
+        "code": "PT_ASSESMENT1_NUMBER_OF_FLOORS",
+        "message": "No. of floors",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESMENT1_PLOT_SIZE",
+        "message": "Plot size",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESMENT1_PLOT_SIZE_ERROR_MESSAGE",
+        "message": "Please enter a valid plot size",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESMENT1_PROPERTY_TYPE",
+        "message": "Type of Property",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESSMENT1_FORM_HEADING",
+        "message": "Tax Assessment Details - 1",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESSMENT2_COMMON_ERRORMSG",
+        "message": "Please enter a valid area",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESSMENT2_FLOOR1_BUILT_UP_AREA",
+        "message": "Floor 1 Built-up area",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_ASSESSMENT2_FLOOR2_BUILT_UP_AREA",
+        "message": "Floor 2 Built-up area",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_ASSESSMENT_FORM_HEADER",
+        "message": "Assessment Form",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_BLOOD_BANK",
+        "message": "Blood Bank",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_DUE_DATE",
+        "message": "Due date :",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_FIRE_STATION",
+        "message": "Fire Station",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_GO_BACK",
+        "message": "Go Back",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_HOSPITAL",
+        "message": "Hospital",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_NEXT",
+        "message": "Next",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_POLICE_STATION",
+        "message": "Police Station",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_SELECT_PLACEHOLDER",
+        "message": "Select",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_COMMON_SQFT_PLACEHOLDER",
+        "message": "Mention in sq ft",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_EXEMPTION_CATEGORY",
+        "message": "Category",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_FORM_HEADING",
+        "message": "Full/ Partial Exemption (if any)",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_PROOF",
+        "message": "Proof",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_PROOF_PLACEHOLDER",
+        "message": "Upload a copy of proof",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_REFERENCE_ID",
+        "message": "Reference ID",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_REFERENCE_ID_ERRORMSG",
+        "message": "Enter a valid reference id",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_EXEMPTION_REFERENCE_ID_PLACEHOLDER",
+        "message": "Enter Reference ID",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_AMOUNT_DUE",
+        "message": "Amount due : ",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_BIRTH_DEATH",
+        "message": "Birth & Death",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_COMPLAINT",
+        "message": "Complaints",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_FIRE_NOC",
+        "message": "Fire NOC",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_HEADER",
+        "message": "Payments",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_LICENSES",
+        "message": "Licenses",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_NEAR_ME",
+        "message": "NEAR ME",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_PAY",
+        "message": "PAY",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_SEARCH_PLACEHOLDER",
+        "message": "Tell us what you need",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_HOME_WATER_CHARGES",
+        "message": "Water Charges",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_AFTER_DUE_DATE",
+        "message": "Dues after due date:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_CALCULATION",
+        "message": "Calculation",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_DETAILED_BILL",
+        "message": "Detailed Bill",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_DUES",
+        "message": "Dues",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_EXEMPTION",
+        "message": "Exemption:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_FIRE_CESS",
+        "message": "Fire Cess (5%):",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_METHOD",
+        "message": "Payment method",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_PROPERTY_TAX",
+        "message": "Property Tax:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_PT_DUE",
+        "message": "Property Tax due:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_REASSESS",
+        "message": "Re-Assess",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_REBASE",
+        "message": "Rebate:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_MAKE_PAYMENT_TOTAL",
+        "message": "Total:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATIONS_COMPLAINT_ASSIGNED",
+        "message": "Your complaint has been assigned to the concerned department.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATIONS_HEADER",
+        "message": "Notifications",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATIONS_PROPERTY_TAX_PAID",
+        "message": "Your property tax has been assessed and paid successfully.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_NOTIFICATIONS_WATER_SEWERAGE_TAX_PAID",
+        "message": "Your Water & Sewerage tax has been paid successfully.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_AADHAR_ERRORMSG",
+        "message": "Please enter a valid aadhar number",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_AADHAR_NUMBER",
+        "message": "Aadhar No.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_AADHAR_PLACEHOLDER",
+        "message": "Enter Aadhar No.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_ADDRESS",
+        "message": "Correspondence Address",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_ADDRESS_ERRORMSG",
+        "message": "Please enter a valid address",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_ADDRESS_PLACEHOLDER",
+        "message": "Enter correspondence address",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_FATHER_OR_HUSBAND_NAME",
+        "message": "Father/Husband Name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_FATHER_OR_HUSBAND_NAME_PLACEHOLDER",
+        "message": "Enter Father/Husband name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_OWNER_DETAILS_FORM_HEADING",
+        "message": "Owner Details",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_ABOUT",
+        "message": "About",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_ACCESS_AND_PAY",
+        "message": "Access & Pay",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_DRAFTS",
+        "message": "Drafts",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_EXAMPLES",
+        "message": "Examples",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_HOW_IT_WORKS",
+        "message": "How it works",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_BHIM_UPI",
+        "message": "BHIM UPI",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CARD",
+        "message": "Credit /Debit Card",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CARD_NUMBER",
+        "message": "Card Number",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CARD_NUMBER_PLACEHOLDER",
+        "message": "Enter the card number",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CASH",
+        "message": "Cash",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CVV",
+        "message": "CVV",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_CVV_DESC",
+        "message": "Last 3 digits printed on the back of the card",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_EXPIRES_ON",
+        "message": "Expires on",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_MM",
+        "message": "MM",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_NAME_ON_CARD",
+        "message": "Name on Card",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_NAME_ON_CARD_PLACEHOLDER",
+        "message": "Enter the name on card",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_NET_BANKING",
+        "message": "Net Banking",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_PAYTM",
+        "message": "Paytm",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_METHOD_YY",
+        "message": "YY",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_MY_RECEIPTS",
+        "message": "My Receipts",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_NEW_ASSEMENTS",
+        "message": "New Property Assessment",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_PAID_ASSESSMENTS",
+        "message": "Paid Assessments",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_PENDING_ASSESSMENTS",
+        "message": "Pending Assessments",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PAYMENT_STEP_HEADER",
+        "message": "Property Tax",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_POLICE_STATION_DIRECTIONS",
+        "message": "Directions",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_POLICE_STATION_HEADER",
+        "message": "Police Stations",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_POLICE_STATION_REVIEWS",
+        "message": "Reviews",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_POLICE_STATION_REVIEWS_LOWERCASE",
+        "message": "reviews",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_COLONY_NAME",
+        "message": "Colony/Mohalla Area",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_COLONY_NAME_ERRORMSG",
+        "message": "Enter a valid area name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_COLONY_NAME_PLACEHOLDER",
+        "message": "Enter Area name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_FORM_HEADING",
+        "message": "Property Address",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_LOCATION_PLACEHOLDER",
+        "message": "Select Location",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_PROPERTY_NUMBER",
+        "message": "House/Property No.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_PROPERTY_NUMBER_ERRORMSG",
+        "message": "Enter a valid house/property number",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_PROPERTY_NUMBER_PLACEHOLDER",
+        "message": "Enter House/Property no.",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_STREET",
+        "message": "Street Name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_STREET_ERRORMSG",
+        "message": "Enter a valid street name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_DETAILS_STREET_PLACEHOLDER",
+        "message": "Enter street name",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_PROPERTY_TAX_WHICH_YEAR_QUESTION",
+        "message": "Which year’s taxes would you like to pay?",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_AMOUNT_PAID",
+        "message": "Amount Paid:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_DATE",
+        "message": "Date:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_HEADER",
+        "message": "Receipt",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_OWNER_NAME",
+        "message": "Owner Name:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_PAYMENT_TERM",
+        "message": "Payment Term:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_PROPERTY",
+        "message": "Property:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_RECEIPT_NO",
+        "message": "Receipt No:",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PT_RECEIPT_SUCCESS_MESSAGE",
+        "message": "Payment has been done successfully!",
+        "module": "rainmaker",
+        "locale": "en_IN"
+    }
+]

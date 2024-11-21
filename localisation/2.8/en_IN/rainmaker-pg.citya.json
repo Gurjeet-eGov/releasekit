@@ -1,0 +1,32 @@
+[
+    {
+        "code": "CS_PROPERTY_ID_FORMAT_MUST_BEPG-PT-xxxx-xx-xx-xxxxxx",
+        "message": "Property ID must be in this format PG-PT-xxxx-xx-xx-xxxxxx",
+        "module": "rainmaker-pg.citya",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CS_PT_NO_PROPERTIES_FOUND",
+        "message": "No Properties Found",
+        "module": "rainmaker-pg.citya",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PAYMENT_INVALID_NAME",
+        "message": "Invalid Name",
+        "module": "rainmaker-pg.citya",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_CITYA_ADMIN_JLC1",
+        "message": "Nefas Silk Subcity",
+        "module": "rainmaker-pg.citya",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_CITYA_ADMIN_JLC10",
+        "message": "Lemi Kura Subcity",
+        "module": "rainmaker-pg.citya",
+        "locale": "en_IN"
+    }
+]

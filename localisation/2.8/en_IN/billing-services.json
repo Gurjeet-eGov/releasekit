@@ -1,0 +1,14 @@
+[
+    {
+        "code": "BILLINGSERVICE_BILL_CANCELLATION_NOTIF_MSG",
+        "message": "Dear {Owner Name}, Your {Service} Bill for {Billing Period} has been cancelled. Reason for cancellation: {cancellation reason}.\n\nEGOVS",
+        "module": "billing-services",
+        "locale": "en_IN"
+    },
+    {
+        "code": "BILLINGSERVICE_BUSINESSSERVICE_BILL_GEN_NOTIF_MSG",
+        "message": "Dear {username}, Your {module} payment for the period {period} with {primarykeystring} : {servicenumber} is {amt} INR. Please pay before {expirydate} to avail rebate.",
+        "module": "billing-services",
+        "locale": "en_IN"
+    }
+]

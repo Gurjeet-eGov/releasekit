@@ -1,0 +1,8 @@
+[
+    {
+        "code": "BILLINGSERVICE_BILL_CANCELLATION_NOTIF_MSG",
+        "message": "प्रिय {OWNER_NAME}, {BILLING_PERIOD} के लिए आपका {SERVICE} बिल रद्द कर दिया गया है। रद्द करने का कारण: {REASON_FOR_CANCELLATION}. \n\nईजीओवीएस",
+        "module": "billing-services",
+        "locale": "hi_IN"
+    }
+]

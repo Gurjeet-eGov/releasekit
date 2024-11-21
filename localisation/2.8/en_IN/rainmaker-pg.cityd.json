@@ -1,0 +1,14 @@
+[
+    {
+        "code": "PG_CITYD_ADMIN_JLC1",
+        "message": "Sabiyan",
+        "module": "rainmaker-pg.cityd",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_CITYD_ADMIN_JLC10",
+        "message": "Melka Jebdu",
+        "module": "rainmaker-pg.cityd",
+        "locale": "en_IN"
+    }
+]

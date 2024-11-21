@@ -1,0 +1,110 @@
+[
+    {
+        "code": "ACTION_TEST_ABOUT_DASHBOARD",
+        "message": "के बारे में",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_BIRTH_AND_DEATH",
+        "message": "जन्म और मृत्यु",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_FAQS",
+        "message": "अक्सर पूछे जाने वाले प्रश्न",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_DASHBOARD_OBPS",
+        "message": "ऑनलाइन भवन योजना अनुमोदन प्रणाली",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_FIRE_NOC",
+        "message": "फायर एनओसी",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_MCOLLECT",
+        "message": "एमकलेक्ट",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_OVERVIEW",
+        "message": "समीक्षा पेज",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_PGR",
+        "message": "लोक शिकायत और निवारण",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_PROPERTY_TAX",
+        "message": "संपत्ति कर",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_TRADELICENSE",
+        "message": "व्यापार लाइसेंस",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_UBRAN_REALTIME_DASHBOARD",
+        "message": "राष्ट्रीय शहरी रीयल-टाइम डैशबोर्ड",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_DASHBOARD",
+        "message": "राष्ट्रीय शहरी रीयल-टाइम डैशबोर्ड",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_DASHBOARD",
+        "message": "राष्ट्रीय शहरी रीयल-टाइम डैशबोर्ड",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_URBAN_REALTIME_LANDING_PAGE",
+        "message": "लैंडिंग पृष्ठ",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ACTION_TEST_NATIONAL_WATER_&_SEWERAGE",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_FAQS",
+        "message": "अक्सर पूछे जाने वाले प्रश्न",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_LANDING_PAGE",
+        "message": "लैंडिंग पृष्ठ",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NSS_WS_DASHBOARD",
+        "message": "पानी और सीवरेज",
+        "module": "rainmaker-dsson",
+        "locale": "hi_IN"
+    }
+]

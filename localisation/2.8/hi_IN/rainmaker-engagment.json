@@ -1,0 +1,134 @@
+[
+    {
+        "code": "CS_COMMON_NEW_SURVEY",
+        "message": "नया सर्वेक्षण बनाएँ",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_EVENT_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_NO_INACTIVE_SURVEYS",
+        "message": "कोई सक्रिय सर्वेक्षण नहीं",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_SURVEY_DONT_START_WITH_NUMBER",
+        "message": "सर्वे का नाम किसी संख्या से शुरू नहीं हो सकता",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXCEEDS_100_CHAR_LIMIT",
+        "message": "विवरण 100 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXCEEDS_140_CHAR_LIMIT",
+        "message": "विवरण 140 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXCEEDS_200_CHAR_LIMIT",
+        "message": "विवरण 200 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXCEEDS_500_CHAR_LIMIT",
+        "message": "विवरण 500 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EXCEEDS_60_CHAR_LIMIT",
+        "message": "विवरण 60 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "LABEL_SURVEY_EMAIL_MOBILE",
+        "message": "ईमेल आईडी / फोन नंबर लीजिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "MAX_LENGTH_60",
+        "message": "विवरण 60 अक्षरों से कम में होना चाहिए",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PT_PROP_LOCALITY",
+        "message": "इलाका / मोहल्ला",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_CHECK_BOXES",
+        "message": "चेक बॉक्स",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_DATE",
+        "message": "दिनांक",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_MULTIPLE_CHOICE",
+        "message": "बहुविकल्पी",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_PARAGRAPH",
+        "message": "अनुच्छेद",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_SHORT_ANSWER",
+        "message": "संक्षिप्त जवाब",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEYS_TIME",
+        "message": "समय",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_INFO_HEADER",
+        "message": "नोट",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_INFO_LABEL",
+        "message": "सक्रिय सर्वेक्षणों के लिए, केवल समाप्ति तिथि/समय और सर्वेक्षण विवरण संपादित किया जा सकता है।",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_REPORT",
+        "message": "रिपोर्ट",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WHO_RESPONDED",
+        "message": "किसने जवाब दिया",
+        "module": "rainmaker-engagment",
+        "locale": "hi_IN"
+    }
+]

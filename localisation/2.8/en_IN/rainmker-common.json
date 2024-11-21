@@ -1,0 +1,14 @@
+[
+    {
+        "code": "TL_COMMON_TABLE_COL_APP_TYPE",
+        "message": "Application Type",
+        "module": "rainmker-common",
+        "locale": "en_IN"
+    },
+    {
+        "code": "TL_COMMON_TABLE_COL_FIN_YEAR",
+        "message": "Financial Year",
+        "module": "rainmker-common",
+        "locale": "en_IN"
+    }
+]

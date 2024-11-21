@@ -1,0 +1,20 @@
+[
+    {
+        "code": "CORE_NO",
+        "message": "No",
+        "module": "rainmaker-hrms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "CORE_YES",
+        "message": "Yes",
+        "module": "rainmaker-hrms",
+        "locale": "en_IN"
+    },
+    {
+        "code": "Pt-test",
+        "message": "testingss",
+        "module": "rainmaker-hrms",
+        "locale": "en_IN"
+    }
+]

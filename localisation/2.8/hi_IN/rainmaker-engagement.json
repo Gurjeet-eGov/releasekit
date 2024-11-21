@@ -1,5 +1,35 @@
 [
     {
+        "code": "CE_DOCUMENT_DETAILS",
+        "message": "दस्तावेज़ विवरण",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CE_DOCUMENT_DOWNLOAD_LINK",
+        "message": "डाउनलोड",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CE_DOCUMENT_VIEW_LINK",
+        "message": "देखें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CE_TABLE_DOCUMENT_POSTED_BY",
+        "message": "के द्वारा प्रकाशित किया गया",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CLEAR_SEARCH_LINk",
+        "message": "खोज मिटाएँ",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CONFIRM_DELETE_MSG_NEW",
         "message": "कृपया पुष्टि करें कि क्या आप हटाना चाहते हैं",
         "module": "rainmaker-engagement",
@@ -8,12 +38,6 @@
     {
         "code": "CONFIRM_DELETE_SURVEY",
         "message": "सर्वेक्षण हटाएं",
-        "module": "rainmaker-engagement",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "CONFIRM_INACTIVE_SURVEY_MSG",
-        "message": "कृपया पुष्टि करें कि क्या आप <survey title> की स्थिति को निष्क्रिय में बदलना चाहते हैं? यह तुरंत नागरिकों की प्रतिक्रिया एकत्र करना बंद कर देगा।",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -48,6 +72,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CORE_COMMON_SAVE",
+        "message": "सेव करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CREATE_ANOTHER_SURVEY",
         "message": "एक और सर्वेक्षण बनाएं",
         "module": "rainmaker-engagement",
@@ -72,8 +102,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_COMMON_DOCUMENTS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_COMMON_INACTIVE_SURVEYS",
         "message": "निष्क्रिय सर्वेक्षण",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "CS_COMMON_OR",
+        "message": "या",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -138,6 +180,12 @@
         "locale": "hi_IN"
     },
     {
+        "code": "CS_SURVEYS_QUESTIONS",
+        "message": "सर्वेक्षण संबंधी प्रश्न",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "CS_SURVEY_DESCRIPTION",
         "message": "सर्वेक्षण विवरण",
         "module": "rainmaker-engagement",
@@ -168,8 +216,104 @@
         "locale": "hi_IN"
     },
     {
-        "code": "CS_SURVEYS_QUESTIONS",
-        "message": "सर्वेक्षण संबंधी प्रश्न",
+        "code": "CULTURAL",
+        "message": "सांस्कृतिक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DOCUMENTS_DOCUMENT_CARD_SECTION_HEADER",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DOCUMENTS_DOCUMENT_HEADER",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DOCUMENTS_EDIT_HEADER",
+        "message": "संपादित करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_PREVIOUS_YEAR",
+        "message": "पिछला साल",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_THIS_MONTH",
+        "message": "इस महीने",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_THIS_QUARTER",
+        "message": "इस तिमाही",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_THIS_WEEK",
+        "message": "इस सप्ताह",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_THIS_YEAR",
+        "message": "इस साल",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_TODAY",
+        "message": "आज",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "DSS_YESTERDAY",
+        "message": "बीता हुआ कल",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_DOCUMENT_ID",
+        "message": "दस्तावेज़ आईडी",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_EVENT_DELETED",
+        "message": "ईवेंट सफलतापूर्वक मिटाए गए",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_EVENT_NAME",
+        "message": "इवेंट का नाम",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_EVENT_UPDATED",
+        "message": "इवेंट सफलतापूर्वक अपडेट",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_PUBLIC_BRDCST_DELETED",
+        "message": "संदेश सफलतापूर्वक हटाया गया",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ENGAGEMENT_PUBLIC_BRDCST_UPDATED",
+        "message": "संदेश सफलतापूर्वक अपडेट किया गया",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -180,20 +324,32 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ENGAGEMENT_SURVEY_UPDATE_FAILURE",
-        "message": "सर्वेक्षण अद्यतन विफल",
-        "module": "rainmaker-engagement",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ENGAGEMENT_SURVEY_UPDATED",
         "message": "सर्वेक्षण सफलतापूर्वक अपडेट किया गया",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
+        "code": "ENGAGEMENT_SURVEY_UPDATE_FAILURE",
+        "message": "सर्वेक्षण अद्यतन विफल",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ERR_INVALID_APPID",
+        "message": "अमान्य आवेदन नंबर",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "ES_COMMON_DEL",
         "message": "हटाएं",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_DOC_DOCUMENT",
+        "message": "दस्तावेज़",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -210,14 +366,68 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ES_COMMON_Y_MARKINACTIVE",
-        "message": "हां, निष्क्रिय के रूप में चिह्नित करें",
+        "code": "ES_COMMON_TAKE_ACTION",
+        "message": "कार्रवाई करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_ULB",
+        "message": "निकाय",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_UPDATE",
+        "message": "अपडेट करें",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
         "code": "ES_COMMON_YES",
         "message": "हाँ",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_COMMON_Y_MARKINACTIVE",
+        "message": "हां, निष्क्रिय के रूप में चिह्नित करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_DSS_DATE_RANGE",
+        "message": "तिथि सीमा",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EVENT_EDIT",
+        "message": "इवेंट में बदलाव करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EVENT_EDIT_EVENT",
+        "message": "इवेंट में बदलाव करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EVENT_EVENT_DETAILS",
+        "message": "इवेंट की जानकारी",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EVENT_INBOX",
+        "message": "इनबॉक्स",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_EVENT_NEW_EVENT_RESPONSE",
+        "message": "प्रतिक्रिया",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -234,12 +444,6 @@
         "locale": "hi_IN"
     },
     {
-        "code": "ES_SURVEY_DONT_START_WITH_NUMBER",
-        "message": "सर्वे का नाम किसी संख्या से शुरू नहीं हो सकता",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
         "code": "ES_SURVEY_EDIT",
         "message": "सर्वेक्षण संपादित करें",
         "module": "rainmaker-engagement",
@@ -252,21 +456,99 @@
         "locale": "hi_IN"
     },
     {
-        "code": "EXCEEDS_100_CHAR_LIMIT",
-        "message": "विवरण 100 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
+        "code": "ES_TITLE_APPLICATION_DETAILS",
+        "message": "इवेंट की जानकारी",
+        "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
-        "code": "EXCEEDS_140_CHAR_LIMIT",
-        "message": "विवरण 140 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
+        "code": "ES_TITLE_CITIZEN_ENGAGEMENT",
+        "message": "सिटीजन एन्गेजमेन्ट",
+        "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
-        "code": "EXCEEDS_200_CHAR_LIMIT",
-        "message": "विवरण 200 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
+        "code": "ES_TITLE_DOCS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_EDIT_EVENTS",
+        "message": "इवेंट में बदलाव करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "ES_TITLE_EVENT_INBOX",
+        "message": "इवेंट्स",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_CATEGORY_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_COMMENTS_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_DATERANGE_LABEL",
+        "message": "तिथि सीमा",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_DESCRIPTION_TEXT",
+        "message": "विवरण (अधिकतम वर्ण सीमा: 500)",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_DETAILS_TITLE",
+        "message": "इवेंट की जानकारी",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_EDIT_EVENT",
+        "message": "संपादित करें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_FROM_DATE_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_GEOLOCATION_LABEL",
+        "message": "नक्शे से घटना स्थान चुनें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_NAME_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_TITLE_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "EVENTS_TO_DATE_ERROR_REQUIRED",
+        "message": "आवश्यक",
+        "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
@@ -276,20 +558,20 @@
         "locale": "hi_IN"
     },
     {
-        "code": "EXCEEDS_500_CHAR_LIMIT",
-        "message": "विवरण 500 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "EXCEEDS_60_CHAR_LIMIT",
-        "message": "विवरण 60 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
+        "code": "FILTERS_FILTER_CARD_CAPTION",
+        "message": "फिल्टर",
+        "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
         "code": "GO_BACK_TO_HOME",
         "message": "मुख्य पेज पर जाएं / होम पेज पर जाएं",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "LABEL_FOR_ULB",
+        "message": "निकाय",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -318,6 +600,54 @@
         "locale": "hi_IN"
     },
     {
+        "code": "MODULE_PGR",
+        "message": "पीजीआर",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "NEW_PUBLIC_BRDCST",
+        "message": "नया सार्वजनिक संदेश जोड़ें",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PUBLICHEALTH",
+        "message": "सार्वजनिक स्वास्थ्य",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PUBLIC_BRDCST_FROM_DATE_LABEL",
+        "message": "दिनांक से",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PUBLIC_BRDCST_TITLE_LABEL",
+        "message": "शीर्षक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "PUBLIC_BRDCST_TO_DATE_LABEL",
+        "message": "दिनांक तक",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_EMAIL",
+        "message": "ईमेल",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_ENDED_MESSAGE",
+        "message": "सर्वेक्षण समाप्त हो गया है",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "SURVEY_FORM_CREATED",
         "message": "सर्वेक्षण सफलतापूर्वक बनाया गया",
         "module": "rainmaker-engagement",
@@ -342,134 +672,20 @@
         "locale": "hi_IN"
     },
     {
+        "code": "SURVEY_FORM_IS_ALREADY_INACTIVE",
+        "message": "सर्वेक्षण निष्क्रिय है",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "SURVEY_FORM_IS_ALREADY_SUBMITTED",
+        "message": "सर्वे पहले ही सबमिट किया जा चुका है",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
         "code": "SURVEY_FORM_RESPONSE_MESSAGE",
         "message": "सर्वेक्षण पर अपनी प्रतिक्रिया देने के लिए धन्यवाद।",
-        "module": "rainmaker-engagement",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_INFO_HEADER",
-        "message": "नोट",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_INFO_LABEL",
-        "message": "सक्रिय सर्वेक्षणों के लिए, केवल समाप्ति तिथि/समय और सर्वेक्षण विवरण संपादित किया जा सकता है।",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_RESPONSE_FAILED",
-        "message": "प्रतिक्रिया प्रस्तुत करने में विफल",
-        "module": "rainmaker-engagement",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_RESPONSE_SUBMITED",
-        "message": "प्रतिक्रिया सफलतापूर्वक सबमिट की गई",
-        "module": "rainmaker-engagement",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "surveyLisNotResponded",
-        "message": "",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "WHO_RESPONDED",
-        "message": "किसने जवाब दिया",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "MAX_LENGTH_60",
-        "message": "विवरण 60 अक्षरों से कम में होना चाहिए",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "CS_NO_INACTIVE_SURVEYS",
-        "message": "कोई सक्रिय सर्वेक्षण नहीं",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "ES_COMMON_ULB",
-        "message": "निकाय",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "CS_COMMON_NEW_SURVEY",
-        "message": "नया सर्वेक्षण बनाएँ",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_REPORT",
-        "message": "रिपोर्ट",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "CS_EVENT_INBOX",
-        "message": "इनबॉक्स",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_SHORT_ANSWER",
-        "message": "संक्षिप्त जवाब",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_MULTIPLE_CHOICE",
-        "message": "बहुविकल्पी",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_CHECK_BOXES",
-        "message": "चेक बॉक्स",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_PARAGRAPH",
-        "message": "अनुच्छेद",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_DATE",
-        "message": "दिनांक",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEYS_TIME",
-        "message": "समय",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "LABEL_SURVEY_EMAIL_MOBILE",
-        "message": "ईमेल आईडी / फोन नंबर लीजिए",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "PT_PROP_LOCALITY",
-        "message": "इलाका / मोहल्ला",
-        "module": "rainmaker-engagment",
-        "locale": "hi_IN"
-    },
-    {
-        "code": "SURVEY_EMAIL",
-        "message": "ईमेल",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
@@ -486,20 +702,32 @@
         "locale": "hi_IN"
     },
     {
-        "code": "SURVEY_FORM_IS_ALREADY_SUBMITTED",
-        "message": "सर्वे पहले ही सबमिट किया जा चुका है",
+        "code": "SURVEY_RESPONSE_FAILED",
+        "message": "प्रतिक्रिया प्रस्तुत करने में विफल",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
-        "code": "SURVEY_ENDED_MESSAGE",
-        "message": "सर्वेक्षण समाप्त हो गया है",
+        "code": "SURVEY_RESPONSE_SUBMITED",
+        "message": "प्रतिक्रिया सफलतापूर्वक सबमिट की गई",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     },
     {
-        "code": "SURVEY_FORM_IS_ALREADY_INACTIVE",
-        "message": "सर्वेक्षण निष्क्रिय है",
+        "code": "TOTAL_DOCUMENTS",
+        "message": "दस्तावेज़",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "TOTAL_EVENTS",
+        "message": "इवेंट्स",
+        "module": "rainmaker-engagement",
+        "locale": "hi_IN"
+    },
+    {
+        "code": "WARDCOMMITTEEMEETING",
+        "message": "वार्ड समिति की बैठक",
         "module": "rainmaker-engagement",
         "locale": "hi_IN"
     }

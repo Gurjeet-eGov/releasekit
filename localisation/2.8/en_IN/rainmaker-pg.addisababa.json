@@ -1,0 +1,14 @@
+[
+    {
+        "code": "PG_ADDISABABA_ADMIN_ADD01",
+        "message": "Sabiyan",
+        "module": "rainmaker-pg.addisababa",
+        "locale": "en_IN"
+    },
+    {
+        "code": "PG_ADDISABABA_ADMIN_ADD02",
+        "message": "Melka Jebdu",
+        "module": "rainmaker-pg.addisababa",
+        "locale": "en_IN"
+    }
+]

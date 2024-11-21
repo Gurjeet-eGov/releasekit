@@ -1,0 +1,20 @@
+[
+    {
+        "code": "WF_CITIZEN_FIRENOC_EDIT",
+        "message": "Edit",
+        "module": "fireNoc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_CITIZEN_FIRENOC_RESUBMIT",
+        "message": "Resubmit",
+        "module": "fireNoc",
+        "locale": "en_IN"
+    },
+    {
+        "code": "WF_FIRENOC_SENDBACKTOCITIZEN",
+        "message": "Send Back To Citizen",
+        "module": "fireNoc",
+        "locale": "en_IN"
+    }
+]
